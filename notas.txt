@@ -1,0 +1,10 @@
+O arquivo de configurações do apache é HTTPD.CONF
+
+em git
+git init inicia o arquivo
+git remote add origin "link do repositório"
+git add adiciona o arquivo
+git commit -m comenta
+git push origin master envia o arquivo
+git pull origin master puxa os arquivos de lá
+
